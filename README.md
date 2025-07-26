@@ -63,20 +63,3 @@ The dataset comprises various metrics related to hotel bookings. The features of
 | 34    | email               | Guest's email address |
 | 35    | phone-number        | Guest's phone number |
 | 36    | credit_card         | Last four digits of the guest's credit card |
-
-
-## 📁 File Descriptions
-- 📓 **`Hotel_Booking_Cancellation_Prediction.ipynb`**: Jupyter notebook containing data exploration, visualization, modeling, and evaluation code.
-- 📁 **`Hotel_Booking.csv`**: CSV file containing the hotel booking dataset.
-- 📘 **`README.md`**: This file, providing an overview of the project.
-
-
-## 🚀 Instructions for Local Execution
-1. **Clone this Repository**: Begin by cloning this repository to your local setup.
-2. **Open the Notebook**: Access the `Hotel_Booking_Cancellation_Prediction.ipynb` in Jupyter.
-3. **Install Dependencies**: Ensure all necessary Python libraries are installed for seamless execution.
-4. **Execution**: Run all cells in the notebook to witness the results and insights.
-
-## 🔗 Additional Resources
-- 🌐 **Kaggle Notebook**: If you're keen on a Kaggle environment, delve into the notebook [here](https://www.kaggle.com/code/farzadnekouei/hotel-booking-cancellation-prediction).
-- 🤝 **Connect on LinkedIn**: Have queries or looking for collaborations? Feel free to connect on [LinkedIn](https://linkedin.com/in/farzad-nekouei-7535aa53/).
